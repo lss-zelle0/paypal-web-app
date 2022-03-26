@@ -99,11 +99,11 @@
 	      <url>http://3.83.203.105:8081/repository/paypal-releases//url>
 	    </repository>
 	    
-	    <snapshotRepository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.83.203.105:8081/repository/paypal-snapshot//url>
-	    </snapshotRepository>
+	    </repository>
 	    
 	</distributionManagement>
 	
